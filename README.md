@@ -8,9 +8,9 @@ De esta manera se quiere conseguir poder mejorar y adaptar la plataforma, ademá
 
 
 **Estructura del proyecto:**
-├── data/    #Datos curdos
-├── results/    #Análisis y Dashboard
-├── README.md
+├── data/    #Datos curdos  \n
+├── results/    #Análisis y Dashboard  \n
+├── README.md  \n
 
 
 **Instalaciones y requisitos**
