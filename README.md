@@ -31,6 +31,12 @@ Para este proyecto solo se precisa de excel, por lo que no requiere nada más qu
   - Se observa que los meses en que más se da de alta la gente es a inicio de año (hay un pico en el primer trimestre de 2024)
 
 
-**Autores**
+**Autores:**
   - Eduard Rey
   - https://github.com/eduardrey2901
+
+
+
+
+
+/Comentario: La base de datos ha sido generada artifialmente por lo que la limpieza era de muy pocos pasos ya que estaba casi casi limpia, además los datos eran bastante balanceados en cuanto a todas las variables.
