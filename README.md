@@ -4,11 +4,14 @@
 **Descripción del proyecto:**
 
 El objetivo de mi proyecto es analizar una base de datos de usuarios de Amazon Prime para extraer información sobre tendencias generales y comportamientos de los usuarios.
+
 Con este análisis se quiere ver que tipo de usuarios hay y cuáles son sus intereses, detectar posibles tendencias de crecimiento en la suscripción, encontrar posibles causas de cancelaciones de suscripción, ver cuál es el contenido que más se consume, etc...
+
 De esta manera se quiere conseguir poder mejorar y adaptar la plataforma, además de poder ser útil para nuevas estratégias de marketing.
 
 
 **Estructura del proyecto:**
+
 ├── data/    #Datos curdos
 
 ├── results/    #Análisis y Dashboard
