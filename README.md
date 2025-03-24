@@ -20,11 +20,13 @@ De esta manera se quiere conseguir poder mejorar y adaptar la plataforma, ademá
 
 
 
-**Instalaciones y requisitos**
+**Instalaciones y requisitos:**
+
 Para este proyecto solo se precisa de excel, por lo que no requiere nada más que la aplicación.
 
 
-**Resultados y conclusiones**
+**Resultados y conclusiones:**
+
   - Los portátiles son los dispositivos que menos se usan, por lo que da a entender que es mucho más cómodo usar la app.
   - Se observa que los meses en que más se da de alta la gente es a inicio de año (hay un pico en el primer trimestre de 2024)
 
