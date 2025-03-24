@@ -39,4 +39,4 @@ Para este proyecto solo se precisa de excel, por lo que no requiere nada más qu
 
 
 
-/Comentario: La base de datos ha sido generada artifialmente por lo que la limpieza era de muy pocos pasos ya que estaba casi casi limpia, además los datos eran bastante balanceados en cuanto a todas las variables.
+*Comentario: La base de datos ha sido generada artifialmente por lo que la limpieza era de muy pocos pasos ya que estaba casi casi limpia, además los datos eran bastante balanceados en cuanto a todas las variables.
